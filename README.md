@@ -6,7 +6,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/mudrickfarhan/auto-check-in-chainopera.git
+git clone https://github.com/vahidnfc33/auto-check-in-chainopera.git
 ```
 
 ### 2. Go To Bot Directory
