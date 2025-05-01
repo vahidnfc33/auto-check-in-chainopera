@@ -1,10 +1,7 @@
-# auto-check-in-chainopera
-# auto-check-in-coresky
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+To+AIRDROP+UHUY)](https://git.io/typing-svg)
+![image](https://github.com/user-attachments/assets/79cecf0e-3e66-4b0d-b711-7eeb96affe76)
 
-regist https://share.coresky.com/faljpy/tasks-rewards
-
+# AUTO CHECK IN CHAIN OPERA
 
 ### 1. Clone Repository
 
