@@ -18,7 +18,7 @@ def get_headers(auth_token):
         "accept-encoding": "gzip, deflate, br, zstd",
         "accept-language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
         "origin": "https://chat.chainopera.ai",
-        "referer": "https://chat.chainopera.ai",
+        "referer": "https://x.com/ChainOpera_AI/status/1871027463456977401",
         "sec-ch-ua": '"Google Chrome";v="135", "Not-A.Brand";v="8", "Chromium";v="135"',
         "sec-ch-ua-mobile": "?0",
         "sec-ch-ua-platform": '"Windows"',
